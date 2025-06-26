@@ -1,2 +1,3 @@
 edit dari branch-a
 edit dari branch-b
+edit dari branch-c
